@@ -2,6 +2,10 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 
+<img style="height: 200px" src="https://github.com/ElerianDePenaFuerte/PANTOS_TOKENLISTS/blob/main/PANDAS_TOKEN.svg"></img>
+
+
+
 This package includes a JSON schema for token lists according the UNISWAP specifications (https://github.com/Uniswap/token-lists).
 
 The JSON schema represents the technical specification for a token list which can be used in a dApp interface, such as the Uniswap Interface.
